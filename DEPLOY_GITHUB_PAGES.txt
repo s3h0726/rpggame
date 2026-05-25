@@ -1,0 +1,10 @@
+GitHub Pages 배포 요약
+
+1. ZIP 압축을 풉니다.
+2. GitHub 새 저장소를 만듭니다.
+3. index.html, style.css, game.js, .nojekyll, README.md 파일을 저장소 최상위(root)에 업로드합니다.
+4. Settings → Pages로 이동합니다.
+5. Source: Deploy from a branch
+6. Branch: main / root 선택
+7. Save
+8. 배포가 끝나면 https://사용자명.github.io/저장소명/ 으로 실행합니다.
